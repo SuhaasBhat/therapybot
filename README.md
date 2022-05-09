@@ -6,6 +6,7 @@ In theory, the only packages you need to install are transformers and pytorch (a
 
 The dataset is found in dataset.csv. 
 The training notebook is therapy_bot_causalML_train.ipynb.
-The models are in small_model and large_model. 
+The models are in small_model and large_model, but are too large to be put on github. They are in this Google Drive Folder, and will need to be downloaded into the same directory as the testing notebook to run:
+https://drive.google.com/drive/u/1/folders/1fSnLRtMxYcYRnmVh8FvxKLBfnkYR1poi. 
 
 This chatbot is a fine tuned DialoGPT, built with the help of this [excellent tutorial](https://nathancooper.io/i-am-a-nerd/chatbot/deep-learning/gpt2/2020/05/12/chatbot-part-1.html), which supplied most of the boilerplate training code for the project. [This implementation](https://colab.research.google.com/drive/15wa925dj7jvdvrz8_z3vU7btqAFQLVlG#scrollTo=ezq6Qtl_3NtD) of that tutorial also provided a lot of help. 
